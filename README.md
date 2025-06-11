@@ -4,5 +4,5 @@ https://github.com/ATOMworkplace/Landing_Page/assets/114564628/6917d4b4-ef65-4ed
 <ul>
   <li> Download the files from the repo on your system</li>
   <li> Using npm install download necessary dependencies and modules</li>
-  <li> Open a new terminal and type in node index.js and the website will be running on localhost:3000 on your system</li>
+  <li> Open a new terminal and type in node index.js and the website will be running on http://localhost:3000 on your system</li>
 </ul>
